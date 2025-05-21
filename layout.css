@@ -414,3 +414,29 @@ html.design{
 	border-radius: 1px;
 }
 
+
+/*=========bird page========*/
+
+.bird body{
+	width: 800px;
+	background-image: linear-gradient(1800deg, #9a90a3, #d3d3d3);
+	margin: auto;
+	color: #000000;
+	padding: 20px;
+	font-family: 'Pixelify Sans', sans-serif;                            
+	font-size: 20px;
+}
+
+.bird img {
+    width: 100px;
+	border: 1px Plum;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.centerbird {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
