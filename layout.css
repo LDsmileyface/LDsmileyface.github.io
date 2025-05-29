@@ -322,57 +322,6 @@ html.design{
 
 
 
-/* testing */
-@media screen and (max-width:1024px) {
-	body{
-		width: 100%;
-	}
-	
-	nav  ul li a { 
-		text-decoration:none;
-		float:left;
-		margin-right:5px;
-		font-size: 1.0em;
-		color: black;
-
-		border:2px solid white;
-		border-bottom:none;
-		border-right: none;
-
-		width:30%;
-		text-align:center;
-		display:block;
-		background:grey;
-
-		-moz-border-radius-topleft:15px;
-		-moz-border-radius-topright:15px;
-		-webkit-border-top-left-radius:5px;
-		-webkit-border-top-right-radius:5px; 
-	} 
-
-	li a, .dropbtn {
-		text-decoration:none;
-		float:left;
-		margin-right:5px;
-		font-size: 1.0em;
-		color: black;
-
-		border:2px solid white;
-		border-bottom:none;
-		border-right: none;
-
-		width:100%;
-		text-align:center;
-		display:block;
-		background:grey;
-
-		-moz-border-radius-topleft:15px;
-		-moz-border-radius-topright:15px;
-		-webkit-border-top-left-radius:5px;
-		-webkit-border-top-right-radius:5px; 
-	} 
-
-}
 
 
 /*=========frame page========*/
@@ -440,3 +389,58 @@ html.design{
   margin-right: auto;
   width: 90%;
 }
+
+/* tablet view and stuff!! */
+@media screen and (max-width:1024px) {
+	body{
+		width: 100%;
+	}
+	
+	nav  ul li a { 
+		text-decoration:none;
+		float:left;
+		margin-right:5px;
+		font-size: 1.0em;
+		color: black;
+
+		border:2px solid white;
+		border-bottom:none;
+		border-right: none;
+
+		width:30%;
+		text-align:center;
+		display:block;
+		background:grey;
+
+		-moz-border-radius-topleft:15px;
+		-moz-border-radius-topright:15px;
+		-webkit-border-top-left-radius:5px;
+		-webkit-border-top-right-radius:5px; 
+	} 
+
+	li a, .dropbtn {
+		text-decoration:none;
+		float:left;
+		margin-right:5px;
+		font-size: 1.0em;
+		color: black;
+
+		border:2px solid white;
+		border-bottom:none;
+		border-right: none;
+
+		width:100%;
+		text-align:center;
+		display:block;
+		background:grey;
+
+		-moz-border-radius-topleft:15px;
+		-moz-border-radius-topright:15px;
+		-webkit-border-top-left-radius:5px;
+		-webkit-border-top-right-radius:5px; 
+	} 
+
+}
+
+
+
