@@ -375,10 +375,10 @@ html.design{
 }
 
 .bird img {
-    width: 100px;
-	border: 1px Plum;
-	padding: 15px;
-	border-radius: 20px;
+    width: 100%;
+	border: 0px Plum;
+	padding: 0px;
+	border-radius: 0px;
 }
 
 .centerbird {
