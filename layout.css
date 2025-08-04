@@ -36,6 +36,7 @@ section {
 header {
   background: White url("https://media.tenor.com/0XrlrG9HcEMAAAAd/end-minecraft.gif") repeat;
   padding: 6px;
+  padding-bottom: 26px;
 }
 
 header h1 {
